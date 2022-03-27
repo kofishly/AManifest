@@ -15,8 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AManifest.cpp">
+    <ClCompile Include="CAXML.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CLineNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSegNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CFileEncodingDeclaration.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CAXML.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CLineNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSegNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CFileEncodingDeclaration.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
